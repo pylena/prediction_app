@@ -1,1 +1,6 @@
 fastapi[all]
+uvicorn
+scikit-learn
+joblib
+pydantic
+seaborn
